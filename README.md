@@ -36,11 +36,11 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="postgresql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="30" alt="postgresql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="30" alt="rabbitmq logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg" height="30" alt="postgresql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg" height="30" alt="sentry logo"  />
   </div>
 </p>>
 <br />
@@ -81,24 +81,23 @@
 </table>
 <br />
 
----
-
+<!--Contact Section-->
 <!--Contact Section-->
 <h2 align="center">📬 Lᴇᴛ's Cᴏɴɴᴇᴄᴛ</h2>
 <p align="center">
   <a href="https://github.com/Jeevanandam-jk" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Jeevanandam--jk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
   </a>
   <a href="mailto:jeevanandam770@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-jeevanandam770%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" height="30" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/jeevanandam-jk/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-jeevanandam--jk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
   </a>
 </p>
 
 ---
-
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
