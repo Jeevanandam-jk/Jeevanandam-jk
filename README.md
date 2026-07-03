@@ -19,13 +19,12 @@
 
 ---
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
+<!--Languages and Tools Section-->  
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,dotnet,angular,rabbitmq" alt="Tech Stack Icons" />
+</p>
+<h3 align="left"
 <br />
 
 <h3 align="left">Current Learning</h3>
