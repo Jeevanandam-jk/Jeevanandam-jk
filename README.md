@@ -62,22 +62,17 @@
   </tr>
   <tr>
     <td colspan="2">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Jeevanandam-jk">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Jeevanandam-jk&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+      <h2 align="center">📊 Mᴏsᴛ Usᴇᴅ Lᴀɴɢᴜᴀɢᴇs 📊</h2>
+        <p align="center">
+          <a href="https://github.com/Jeevanandam-jk">
+            <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Jeevanandam-jk&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&langs_count=6&hide_border=false" alt="Most Used Languages" />
         </a>
       </p>
+      <br />
     </td>
   </tr>
 </table>
 <br />
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevanandam-jk&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
 
 ---
 
