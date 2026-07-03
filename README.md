@@ -28,25 +28,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   </a>
 
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" style="text-decoration: none;">
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   </a>
-  <img width="12" />
 
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   </a>
-  <img width="12" />
 
-  <a href="https://www.typescriptlang.org/docs/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   </a>
-  <img width="12" />
 
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" style="text-decoration: none;">
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
   </a>
-  <img width="12" />
 </p>
 
 <h3 align="center">⚡ Frameworks & Libraries</h3>
