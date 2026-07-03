@@ -21,7 +21,6 @@
 
 <!--Languages and Tools Section-->
 <h2 align="center">🛠️ Tech Stack</h2>
-<hr>
 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
