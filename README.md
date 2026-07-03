@@ -9,10 +9,9 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization.</p>
+<p align="left">Full Stack Developer specializing in Angular, .NET (C#), and PostgreSQL, building scalable web applications and APIs with a focus on clean architecture and performance.</p>
 
-- ✨ Student of life :)
-- 💼 I have **1.6 years of experience** as a Software Developer. Want more details? Feel free to ask me!
+- 💼 I have **1.6 years of experience** as a Software Developer.
 - 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
 <!--End Intro-->
@@ -23,53 +22,51 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h3 align="center">💻 Languages</h3>
+
 <p align="center">
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <a href="https://developer.mozilla.org/docs/Web/HTML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   </a>
-
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <a href="https://developer.mozilla.org/docs/Web/CSS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   </a>
-
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   </a>
-
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <a href="https://www.typescriptlang.org/docs/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   </a>
-
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
+  <a href="https://learn.microsoft.com/dotnet/csharp/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
   </a>
 </p>
 
+
 <h3 align="center">⚡ Frameworks & Libraries</h3>
+
 <p align="center">
-  <a href="https://angular.dev/overview" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="Angular" />
+  <a href="https://angular.dev/overview">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" />
   </a>
-  <img width="12" />
 </p>
 
 <h3 align="center">🗄️ Databases</h3>
+
 <p align="center">
-  <a href="https://www.postgresql.org/docs/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <a href="https://www.postgresql.org/docs/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   </a>
-  <img width="12" />
 </p>
 
 <h3 align="center">🔧 Tools & Platforms</h3>
-<p align="center">
-  <a href="https://www.rabbitmq.com/docs" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="30" alt="RabbitMQ" />
-  </a>
-  <img width="12" />
 
-  <a href="https://docs.sentry.io/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg" height="30" alt="Sentry" />
+<p align="center">
+  <a href="https://www.rabbitmq.com/docs">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" />
+  </a>
+
+  <a href="https://docs.sentry.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg" height="40" />
   </a>
 </p>
 <br />
@@ -113,20 +110,26 @@
 <!--Contact Section-->
 <!--Contact Section-->
 <h2 align="center">📬 Lᴇᴛ's Cᴏɴɴᴇᴄᴛ</h2>
+
 <p align="center">
-  <a href="https://github.com/Jeevanandam-jk" target="_blank">
+  
+  <!-- GitHub -->
+  <a href="https://github.com/Jeevanandam-jk">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg">
-    <img alt="GitHub" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" height="30">
-</picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg">
+      <img alt="GitHub" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" height="40">
+    </picture>
   </a>
-  <a href="mailto:jeevanandam770@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail" height="30" alt="Gmail" />
+  <!-- Gmail -->
+  <a href="mailto:jeevanandam770@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" height="40" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/jeevanandam-jk/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jeevanandam-jk/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
+
 </p>
 
 ---
