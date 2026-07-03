@@ -86,15 +86,16 @@
 <h2 align="center">📬 Lᴇᴛ's Cᴏɴɴᴇᴄᴛ</h2>
 <p align="center">
   <a href="https://github.com/Jeevanandam-jk" target="_blank">
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg">
+    <img alt="GitHub" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" height="30">
+</picture>
   </a>
   <a href="mailto:jeevanandam770@gmail.com" target="_blank">
-    <img width="12" />
     <img src="https://cdn.simpleicons.org/gmail" height="30" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/jeevanandam-jk/" target="_blank">
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
   </a>
 </p>
