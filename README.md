@@ -24,10 +24,9 @@
 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" style="text-decoration: none;"">
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   </a>
-  <img width="12" />
 
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
