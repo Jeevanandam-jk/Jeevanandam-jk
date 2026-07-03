@@ -91,7 +91,7 @@
   </a>
   <a href="mailto:jeevanandam770@gmail.com" target="_blank">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" height="30" alt="Gmail" />
+    <img src="https://cdn.simpleicons.org/gmail" height="30" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/jeevanandam-jk/" target="_blank">
     <img width="12" />
