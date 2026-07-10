@@ -49,7 +49,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" />
   </a>
   <a href="https://dotnet.microsoft.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" />
+    <img src="https://skillicons.dev/icons?i=dotnet" height="40" />
   </a>
 </p>
 
