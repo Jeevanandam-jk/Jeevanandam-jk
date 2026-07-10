@@ -48,6 +48,9 @@
   <a href="https://angular.dev/overview">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" />
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" />
+  </a>
 </p>
 
 <h3 align="center">🗄️ Databases</h3>
