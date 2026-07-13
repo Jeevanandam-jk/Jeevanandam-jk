@@ -101,7 +101,7 @@
       <h2 align="center">📊 Mᴏsᴛ Usᴇᴅ Lᴀɴɢᴜᴀɢᴇs 📊</h2>
         <p align="center">
           <a href="https://github.com/Jeevanandam-jk">
-            <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Jeevanandam-jk&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&langs_count=6&hide_border=false" alt="Most Used Languages" />
+            <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Jeevanandam-jk&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&langs_count=6&hide_border=false&cache_seconds=1&v=20260713" alt="Most Languages Used" />
         </a>
       </p>
       <br />
